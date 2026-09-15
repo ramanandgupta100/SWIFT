@@ -1,8 +1,8 @@
 # Table of contents
 
 * [SWIFT](README.md)
-* [1\_How to Install SWIFT ?](1_how-to-install-swift.md)
-* [2\_1st Program](2_1st-program.md)
-* [3\_Comments](3_comments.md)
-* [4\_Variables](4_variables.md)
-* [5\_Data Types](5_data-types.md)
+* [1 How to Install SWIFT ?](1-how-to-install-swift.md)
+* [2 1st Program](2-1st-program.md)
+* [3 Comments](3-comments.md)
+* [4 Variables](4-variables.md)
+* [5 Data Types](5-data-types.md)
